@@ -1,0 +1,6 @@
+Number of the employees: 2
+
+Goodies and Price:
+
+Microwave Oven: 9800
+Alexa: 9999
